@@ -3,6 +3,7 @@
     img(src="./assets/logo.png")
     h1 Welcome from pug & sass
     p1 AAAAA
+    p2 BBBB
 </template>
 
 <script>
